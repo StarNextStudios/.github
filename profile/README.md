@@ -7,7 +7,7 @@
 <h3 align="center">Dev</h3>
 <p align="center">
 <img height="150px" src="https://lanyard.cnrad.dev/api/778890508822249472"/>
-<img height="150px" src="https://lanyard.cnrad.dev/api/1083407414927298601"/>
+<img height="150px" src="https://lanyard.cnrad.dev/api/1089356674764120125"/>
 </p>
 <h3 align="center">Design</h3>
 <p align="center">
